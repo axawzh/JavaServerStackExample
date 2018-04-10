@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FrontServer:war exploded">
+    <output-path>$PROJECT_DIR$/FrontServer/target/FrontServer</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FrontServer" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.eclipse.microprofile.config:microprofile-config-api:1.2.1" />
+          <element id="library" level="project" name="Maven: org.osgi:org.osgi.annotation.versioning:1.0.0" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.10.0" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.10.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/FrontServer/target/FrontServer/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="FrontServer/web/Web" />
+    </root>
+  </artifact>
+</component>

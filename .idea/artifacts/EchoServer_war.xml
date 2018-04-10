@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EchoServer:war">
+    <output-path>$PROJECT_DIR$/EchoServer/target</output-path>
+    <root id="archive" name="EchoServer.war">
+      <element id="artifact" artifact-name="EchoServer:war exploded" />
+    </root>
+  </artifact>
+</component>

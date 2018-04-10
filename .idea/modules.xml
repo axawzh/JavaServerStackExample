@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EchoServer/EchoServer.iml" filepath="$PROJECT_DIR$/EchoServer/EchoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoServerBuilderAll.iml" filepath="$PROJECT_DIR$/EchoServerBuilderAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrontServer/FrontServer.iml" filepath="$PROJECT_DIR$/FrontServer/FrontServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyServer/ProxyServer.iml" filepath="$PROJECT_DIR$/ProxyServer/ProxyServer.iml" />
+    </modules>
+  </component>
+</project>
